@@ -9,9 +9,8 @@
 ## 🖼 Preview
 
 <p align="center">
-  <img src="asset/images/bg1.avif" width="400" style="margin:10px;" />
-  <img src="asset/images/bg2.avif" width="400" style="margin:10px;" />
-  <img src="asset/images/bg3.avif" width="400" style="margin:10px;" />
+ <img src="S/preview-1.png" width="600" style="margin:10px 0;" />
+  <img src="S/preview-2.png" width="600" style="margin:10px 0;" />
 </p>
 
 ---
@@ -30,8 +29,8 @@ Perfect for **portfolio showcases, galleries, or creative landing pages**.
 
 ## 🛠 Built With
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS  
 
 ---
 
