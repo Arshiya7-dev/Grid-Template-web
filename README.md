@@ -9,9 +9,9 @@
 ## 🖼 Preview
 
 <p align="center">
-  <img src="S/preview-1.png" width="700" style="margin:12px 0;" />
+  <img src="S/preview-1.png" width="100%" style="margin:20px 0;" />
   <br/>
-  <img src="S/preview-2.png" width="700" style="margin:12px 0;" />
+  <img src="S/preview-2.png" width="100%" style="margin:20px 0;" />
 </p>
 ---
 
