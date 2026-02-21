@@ -35,7 +35,7 @@ Perfect for **portfolio showcases, creative galleries, and modern landing pages*
 
 <p align="center">
   <a href="https://arshiya7-dev.github.io/Grid-Template-web/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🖼%20Live%20Demo-Open%20Now-6ab04c?style=for-the-badge&logo=github" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🖼%20Live%20Demo-Open%20Now-00ff9c?style=for-the-badge&logo=github" alt="Live Demo" />
   </a>
 </p>
 
