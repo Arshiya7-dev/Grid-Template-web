@@ -1,7 +1,7 @@
 <h1 align="center">🖼 Grid Template Web</h1>
 
 <p align="center">
-  A modern image & video gallery built with pure HTML & CSS, featuring hover effects and overlays.
+  A modern image & video grid gallery built using only HTML & CSS.
 </p>
 
 ---
@@ -9,28 +9,25 @@
 ## 🖼 Preview
 
 <p align="center">
- <img src="S/preview-1.png" width="600" style="margin:10px 0;" />
-  <img src="S/preview-2.png" width="600" style="margin:10px 0;" />
+  <img src="S/preview-1.png" />
+  <img src="S/preview-2.png" />
 </p>
 
 ---
 
 ## 📌 Description
 
-This project is a **creative grid layout** built entirely with **HTML5 and CSS3**.  
-It includes:  
-- Flexible grid layout for images and videos  
-- Hover effects: image shrink + black overlay  
-- Fully static, **no frameworks or libraries used**  
+This project is a **creative and modern grid layout** built entirely with **pure HTML and CSS**.  
+It features a flexible layout for **displaying images and videos** with smooth hover animations.  
 
-Perfect for **portfolio showcases, galleries, or creative landing pages**.
+Perfect for **portfolio showcases, creative galleries, and modern landing pages**.
 
 ---
 
 ## 🛠 Built With
 
-- HTML
-- CSS  
+- HTML5
+- CSS3  
 
 ---
 
@@ -38,7 +35,7 @@ Perfect for **portfolio showcases, galleries, or creative landing pages**.
 
 <p align="center">
   <a href="https://arshiya7-dev.github.io/Grid-Template-web/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🖼%20Live%20Demo-Open%20Now-1abc9c?style=for-the-badge&logo=github" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🖼%20Live%20Demo-Open%20Now-6ab04c?style=for-the-badge&logo=github" alt="Live Demo" />
   </a>
 </p>
 
